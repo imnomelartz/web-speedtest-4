@@ -6,3 +6,4 @@ let instructor = {
     numberOfRepos: 200,
   },
 };
+console.log(instructor.name);
